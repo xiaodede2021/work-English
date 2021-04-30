@@ -7,3 +7,4 @@
 >This is a quote.
 >>I am not good at it.
 ****
+[next page](addition.md)
